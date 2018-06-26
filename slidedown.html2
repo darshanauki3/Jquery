@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("div").slideDown(3000);
+});
+</script>
+</head>
+<body>
+
+  <div style="width:600px;height:600px;display:none;background-color:skyblue;"></div>
+
+</body>
+</html>
